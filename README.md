@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 - ニョロねこデビューいたすますた。
 - まだ、なんだかよく分からないな。
-- I'm starting to understand a little more.
-- I think it's just my imagination.
+- I'm starting to understand a little.
+- But I think it's just my imagination.
